@@ -92,7 +92,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     location = args.location
-    clone = args.clone
     delay_per_request = args.delay
     no_delay = args.no_delay
     limit = args.limit

@@ -1,3 +1,7 @@
 dtv-env/
 __pycache__/
 .env
+
+test-files/
+
+db.sqlite
